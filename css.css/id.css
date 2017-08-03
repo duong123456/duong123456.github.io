@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+body{
+	background-color: #e5e5e5;
+	margin: 15px;
+	padding: 5px;
+}
+.box1{
+	padding: 5px;
+     margin: 1px;
+
+	border: 1px solid gray;
+	border-top-width: 5px;
+	    width: 33%;
+    float: left;
+    }
+ .dau img{
+ 	width: 219px;
+ 	height: 145px;
+ }
+img{ border-radius: 10px;
+	max-width: 100%;
+
+}
+#i8 a.active{ 
+	color: blue;
+	font-weight: bold;
+font-size: 20px;
+}
+h1{
+	color:#0faee2;
+	text-align: center;
+	font-size: 23px;
+}
+h2{ text-align: center;
+	color:#0faee2;
+	text-indent: 50px;
+
+}
+h6{
+	text-align: center;
+	margin: 1px;
+	font-size: 19px;
+}
+p{ font-size: 20px;
+ text-indent: 20px;
+ }
+ #chat{ 
+	position: fixed;
+	right: 100px;
+	bottom: 30px;
+	
+
+}
+
+#chat img{
+	width: 60px;
+	height: 60px;
+}
+
+
+.khung{
+	max-width: 700px;
+	margin:auto;
+}
